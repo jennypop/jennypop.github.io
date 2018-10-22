@@ -1,9 +1,17 @@
 ---
 layout: single
-title:  2017 game jam - avabranch mod
+title:  Internships Record
 date:   2018-10-20 17:20:43 +0100
+excerpt: Software Engineering Intern at Metaswitch & Softwire, Content Intern at Failbetter Games
+order: 2
 ---
 
-https://avabranch-extended.herokuapp.com/
+Softwire: 
 
-I edited the Zolmeister's open-source game avabranch to include different procedurally generated level patterns. The game was written by Zolmeister using jQuery; I edited the 'BlockSpawner' function to make for more varied and interesting obstacle spawn patterns.
+Failbetter Games: 
+
+Metaswitch: 
+
+Inside the Box: 
+
+Scholarship to GDC 2016:

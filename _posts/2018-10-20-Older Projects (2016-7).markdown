@@ -1,9 +1,16 @@
 ---
 layout: single
-title:  2016 Game Jam - Get Off My Spawn
+title:  Older Projects (2016-7)
 date:   2018-10-20 17:20:43 +0100
+excerpt: "Game jams and academic group project"
+order: 4
 ---
+2017 avabranch mod:
+
+2016 Global Game Jam: Get Off My Spawn
 
 https://globalgamejam.org/2016/games/get-my-spawn (downloadable exe)
 
 My first time working on a video game: a group project at the 2016 Global Game Jam, making an arcade game in Unity about summoning a demon while dodging neighbourhood obstacles. I contributed on various fronts, programming in Unity on the UI and some of the obstacle interactions, and making sprites, SFX, music, and animations.
+
+2016 twitterwildfire:
