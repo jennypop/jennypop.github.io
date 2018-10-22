@@ -1,0 +1,31 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+.page__hero {
+    background-color: #3A606E; 
+    color: #fff; 
+    padding-left: 2%;
+    padding-top: 3%;
+
+    .page__title,
+    .page__lead,
+    {
+        a {
+            color: #fff;
+        }
+      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+    }
+
+    .page__title {
+        a {
+            font-size: 46px;
+            text-decoration: none;
+            line-height: 0;
+        }
+    }
+}
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
