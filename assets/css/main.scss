@@ -9,6 +9,17 @@
     padding-left: 2%;
     padding-top: 3%;
 
+    img {
+        height:120px;
+        float: left;
+        margin-right:10px;
+        margin-bottom:20px;
+        border: whitesmoke;
+        border-radius:10px;
+        border-width:3px;
+        border-style:dotted;
+    }
+
     .page__title,
     .page__lead,
     {
