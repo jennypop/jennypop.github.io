@@ -69,9 +69,45 @@ article.page {
 
     .page__title {
         a {
-            font-size: 46px;
+            font-size: 1.563em;
             text-decoration: none;
-            line-height: 0;
+            line-height: 1;
+        }
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .page__hero {
+        .page__lead {
+            font-size: 0.67em;
+            line-height:1.4;
+        }
+
+        img {
+            display: none;
+        }
+        .page__title {
+            a {
+                font-size: 1em;
+            }
+        }
+    }
+    .archive__item {
+        img {
+            width: 100px;
+        }
+    }
+
+    .archive__item-title {
+        margin-top: 1em;
+        padding-top: 0px;
+        font-size:0.8em;
+    }
+
+    article.page {
+        font-size: 0.67em;
+        img {
+            height:70px;
         }
     }
 }
