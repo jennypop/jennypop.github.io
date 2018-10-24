@@ -22,7 +22,7 @@ My tasks included:
 ## Metaswitch Networks (2016)
 I worked on the Support team developing websites for both client and internal use. I learned many languages from scratch: HTML/CSS/Js with Angular, SQL, and Python. I worked on several different projects, the most significant being the design & implementation of efficient data-driven filters in SQL.
 
-In my [leaving review](https://jennypop.github.io/assets/pdfs/Metaswitch REVIEW.pdf) I was praised for delivering **“over twice”** the amount of expected work, grasping new technologies "rapidly" and **completing projects "well ahead of time"**.
+In my [leaving review]({{site.url}}/assets/pdfs/Metaswitch REVIEW.pdf) I was praised for delivering **“over twice”** the amount of expected work, grasping new technologies "rapidly" and **completing projects "well ahead of time"**.
 
 ## Failbetter Games (2017)
 I worked as a Content Intern on Failbetter's browser narrative game Fallen London. My tasks were fairly varied and included QA, cleaning up the database, and researching Victorian entertainment.
