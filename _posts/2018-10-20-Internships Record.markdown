@@ -4,6 +4,8 @@ title:  Internships Record
 date:   2018-10-20 17:20:43 +0100
 excerpt: Web & app development at Metaswitch Networks, Softwire. Content Intern at Failbetter Games
 order: 2
+header:
+    teaser: itb.jpg
 ---
 I have done two software engineering internships at Metaswitch Networks (2016) and Softwire (2017), both lasting 9-10 weeks. I also did two short internships in non-software roles at Failbetter Games and Inside the Box Board Games, both in 2017 and lasting 1-2 weeks. 
 

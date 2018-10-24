@@ -4,6 +4,8 @@ title:  Code sample - Map Generation in C++ (WIP)
 date:   2018-10-20 17:20:43 +0100
 excerpt: Random generation of connected grids of 0s / 1s
 order: 1
+header:
+  teaser: map.jpg
 ---
 I'm working on randomly generating maps as 2D grids of 0s and 1s, representing free space and obstacles. The goal is that the maps contain no disconnected areas of space that are blocked off by obstacles.
 

@@ -5,6 +5,8 @@ date:   2018-10-13 17:20:43 +0100
 unity_dir: heartbreak
 order: 0
 excerpt: 'a game about breaking blocks and hearts'
+header:
+    teaser: heartbreak.png
 ---
 
 a game about breaking blocks and hearts

@@ -2,15 +2,35 @@
 layout: single
 title:  Older Projects (2016-7)
 date:   2018-10-20 17:20:43 +0100
-excerpt: "Game jams and academic group project"
+excerpt: "Game jams and academic projects"
 order: 4
+header:
+    teaser: spawn.png
 ---
-2017 avabranch mod:
+## Avabranch Extended (January Jam 2017):
+[https://avabranch-extended.herokuapp.com/](https://avabranch-extended.herokuapp.com/)
 
-2016 Global Game Jam: Get Off My Spawn
+An mod I made to the open-source game Avabranch by Zolmeister (itself made in a game jam). In the original game obstacles were spawned uniform randomly across the screen. I added levels with different obstacle patterns to make the game more varied and interesting.
 
-https://globalgamejam.org/2016/games/get-my-spawn (downloadable exe)
+<img src="{{site.url}}/assets/img/Avabranch2.png"/><img src="{{site.url}}/assets/img/avabranch3.png"/>
 
-My first time working on a video game: a group project at the 2016 Global Game Jam, making an arcade game in Unity about summoning a demon while dodging neighbourhood obstacles. I contributed on various fronts, programming in Unity on the UI and some of the obstacle interactions, and making sprites, SFX, music, and animations.
+## Get Off My Spawn (Global Game Jam 2016)
+[https://globalgamejam.org/2016/games/get-my-spawn](https://globalgamejam.org/2016/games/get-my-spawn) (downloadable exe)
 
-2016 twitterwildfire:
+My first time working on a video game: a group project at the 2016 Global Game Jam, making an arcade game in Unity about summoning a demon while dodging neighbourhood obstacles. I contributed on various fronts: design, programming in Unity on the UI and some of the obstacle interactions, and making sprites, backgrounds, SFX, music, and animations.
+
+<img src="{{site.url}}/assets/img/spawn.png"/>
+
+## TwitterWildfire (2016 University Group Project):
+A web app for realtime Twitter hashtag trend analysis. Our app detected trending hashtags hours before they were shown on Twitter 'trending', making it potentially useful for social media managers, marketers, and even emergency services. It also had features to view geographical spread of tweets, networks of related hashtags, and to go back up to several hours to view the changes in trends over time.
+
+<img src="{{site.url}}/assets/img/digitalwildfire1.jpg">
+
+I worked on front-end dev in HTML/CSS and Javascript. (Thankfully my design skills have improved greatly since.) I also had some project management duties such as writing the project spec and report.
+
+## Course Practicals:
+- Compilers: A compiler in OCaml to compile a simple Pascal-like language into bytecode. 
+- Intelligent Systems: Wrote a maze generator and implemented different searches (including A*, Best-First) in Java for solving the mazes.
+- Computer Graphics: An image processor with a GUI using Java and Swing. Features included resizing, swirl, blur, and colour adjustment.
+- Concurrent Programming: A concurrent implementation of the Game of Life in Scala.
+- Computer Security: Implementing cryptographic attacks in Java, such as the BEAST attack and differential cryptanalysis on DES.
