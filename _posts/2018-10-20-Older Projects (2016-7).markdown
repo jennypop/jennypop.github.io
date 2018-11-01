@@ -10,14 +10,14 @@ header:
 ## Avabranch Extended (January Jam 2017):
 [https://avabranch-extended.herokuapp.com/](https://avabranch-extended.herokuapp.com/)
 
-An mod I made to the open-source game Avabranch by Zolmeister (itself made in a game jam). In the original game obstacles were spawned uniform randomly across the screen. I added levels with different obstacle patterns to make the game more varied and interesting.
+An mod I made to the open-source game Avabranch by Zolmeister (itself made in a game jam). In the original game obstacles were spawned uniform randomly across the screen. I added levels with different obstacle patterns to make the game more varied and interesting. At the time my level of Javascript was fairly basic, but I was able to practice my level design skills, and learn from repeated playtesting and tuning difficulty.
 
 <img src="{{site.url}}/assets/img/Avabranch2.png"/><img src="{{site.url}}/assets/img/avabranch3.png"/>
 
 ## Get Off My Spawn (Global Game Jam 2016)
 [https://globalgamejam.org/2016/games/get-my-spawn](https://globalgamejam.org/2016/games/get-my-spawn) (downloadable exe)
 
-My first time working on a video game: a group project at the 2016 Global Game Jam, making an arcade game in Unity about summoning a demon while dodging neighbourhood obstacles. I contributed on various fronts: design, programming in Unity on the UI and some of the obstacle interactions, and making sprites, backgrounds, SFX, music, and animations.
+My first time working on a video game: a group project at the 2016 Global Game Jam, making an arcade game in Unity about summoning a demon while dodging neighbourhood obstacles. I worked on whatever the team needed: design, programming in Unity on the UI and some of the obstacle interactions, and making sprites, backgrounds, SFX, music, and animations.
 
 <img src="{{site.url}}/assets/img/spawn.png"/>
 
@@ -26,7 +26,7 @@ A web app for realtime Twitter hashtag trend analysis. Our app detected trending
 
 <img src="{{site.url}}/assets/img/digitalwildfire1.jpg">
 
-I worked on front-end dev in HTML/CSS and Javascript. (Thankfully my design skills have improved greatly since.) I also had some project management duties such as writing the project spec and report.
+I worked on front-end dev in HTML/CSS and Javascript. I also had some project management duties such as writing the project spec and report. I learned a lot about web dev, knowledge that was substantially built on in my internships. I also learned from the experience of coordinating a team of busy students.
 
 ## Course Practicals:
 - Compilers: A compiler in OCaml to compile a simple Pascal-like language into bytecode. 
